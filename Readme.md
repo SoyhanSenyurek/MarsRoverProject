@@ -42,7 +42,7 @@ If the road L is selected, it is turned 90 degrees to the left, if R is selected
 The compass was used to turn left and right. Rotations were performed by using N, W, S, E in the compass.
 In order to go 1 step forward, the x and y coordinates are decreased or increased according to the direction.
 
-If looking to the N side y is increased by 1.
-If looking to the W side x is reduced by 1.
-If looking to the S side y is reduced by 1.
-If looking at the E side x is increased by 1.
+If looking to the N side y is increased by 1. </br>
+If looking to the W side x is reduced by 1. </br>
+If looking to the S side y is reduced by 1. </br>
+If looking at the E side x is increased by 1. </br>
